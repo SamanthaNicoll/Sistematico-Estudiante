@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Sistematico.Domain/1.0.0": {
+        "runtime": {
+          "Sistematico.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sistematico.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
